@@ -1,0 +1,4 @@
+oclrfc==0.4.1
+pyclesperanto_prototype==0.9.9
+pyopencl==2021.2.6
+scikit-image==0.18.2
