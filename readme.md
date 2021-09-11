@@ -8,4 +8,4 @@ Figure 3: [Application of the mode filter to a binary parametric image](Figure_3
 
 Figure 4: [Application of the mode filter to a classification result of cells in a developing Triboliumcastaneum embryo](Figure_4_tribolium_cell_classification_and_correction.ipynb), [raw data for reproducing Figure 4 (external link)](https://git.mpi-cbg.de/rhaase/clij2_example_data)
 
-These materials are license by Robert Haase, DFG Cluster of Excellence "Physics of Life", TU Dresden under a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
+These materials are licensed by Robert Haase, DFG Cluster of Excellence "Physics of Life", TU Dresden under a [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
