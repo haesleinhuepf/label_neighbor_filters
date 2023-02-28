@@ -1,4 +1,7 @@
-This repository contains raw data, data generation and processing notebooks for reproducing figures of a manuscript. 
+This repository contains raw data, data generation and processing notebooks for reproducing figures of the manuscript:
+
+Haase, R. Image Processing Filters for Grids of Cells Analogous to Filters Processing Grids of Pixels. Front. Comput. Sci., 19 November 2021
+[https://doi.org/10.3389/fcomp.2021.774396](https://doi.org/10.3389/fcomp.2021.774396)
 
 Figure 1: [Neighborhood relationships of pixels and cells](Figure_1_neighboring_pixels_and_cells.pptx)
 
